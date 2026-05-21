@@ -18,3 +18,4 @@
 1. [Git Flow](./github/git_flow.md)
 1. [GitHub Pages](./github/github_pages.md)
 1. [Issues](./github/issues.md)
+1. [Discussions](./github/discussions.md)
