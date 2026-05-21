@@ -12,3 +12,4 @@
 
 #### GitHub
 1. [GitHub](./github/basics.md)
+1. [Gists](./github/gists.md)
