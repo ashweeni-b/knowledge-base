@@ -13,3 +13,5 @@
 #### GitHub
 1. [GitHub](./github/basics.md)
 1. [Gists](./github/gists.md)
+1. [Wikis](./github/wikis.md)
+1. [Feature Previews](./github/feature_preview.md)
