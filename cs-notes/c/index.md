@@ -11,3 +11,4 @@
 1. [Functions](./functions.md)
 1. [Recursion](./recursion.md)
 1. [Pointers](./pointers.md)
+1. [Arrays](./arrays.md)
