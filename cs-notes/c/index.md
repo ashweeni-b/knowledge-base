@@ -10,3 +10,4 @@
 1. [Loop Control Instructions](./loop_control.md)
 1. [Functions](./functions.md)
 1. [Recursion](./recursion.md)
+1. [Pointers](./pointers.md)
