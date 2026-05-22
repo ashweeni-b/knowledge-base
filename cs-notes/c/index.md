@@ -8,3 +8,5 @@
 1. [Operators](./operators.md)
 1. [Conditional Instructions](./conditionals.md)
 1. [Loop Control Instructions](./loop_control.md)
+1. [Functions](./functions.md)
+1. [Recursion](./recursion.md)
