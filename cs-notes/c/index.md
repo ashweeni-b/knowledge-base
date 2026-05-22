@@ -6,3 +6,5 @@
 1. [Basic Concepts](./basic_concepts.md)
 1. [Instructions](./instructions.md)
 1. [Operators](./operators.md)
+1. [Conditional Instructions](./conditionals.md)
+1. [Loop Control Instructions](./loop_control.md)
