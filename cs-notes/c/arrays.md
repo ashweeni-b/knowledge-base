@@ -69,6 +69,7 @@ printArray(arr, n);
 
 Arrays can be multi-dimensional e.g., 1-dimensional, 2-dimensional, 3-dimensional, etc.
 
+{% raw %}
 ```c
 // Declaration of 2-D array
 // 3 rows and 2 columns
@@ -78,13 +79,15 @@ int arr[3][2] = {{1, 4}, {7, 9}, {11, 12}};
 printf("%d", arr[0][2]);
 printf("%d", arr[1][2]);
 ```
+{% endraw %}
 
 #### 2-D Arrays in Memory
 
-![2-D Array in Memory](./assets/2-D_Array_in_Memory.drawio.png)
+![2-D Array in Memory](./assets/2-D_Array_in_Memory.png)
 
 #### Passing 2-D Array to Function
 
+{% raw %}
 ```c
 // Function prototype
 void printArray(int arr[][2], int n);
@@ -95,5 +98,6 @@ printArray(arr, n);
 // arr[][2] is the 2-D array with n rows and 2 columns
 // Column number must be specified along with the array during function declaration
 ```
+{% endraw %}
 
 ---
