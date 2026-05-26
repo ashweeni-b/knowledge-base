@@ -14,5 +14,6 @@
 1. [Arrays](./arrays.md)
 1. [Strings](./strings.md)
 1. [Structures](./structures.md)
+1. [File I/O](./file_io.md)
 
 ---
