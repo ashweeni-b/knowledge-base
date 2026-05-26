@@ -7,6 +7,6 @@ title: Math Topics
 ### 📂 Math Topics
 
 
-1. [Formulae List](./formulae/index.md)
+1. [Formulae List](./formulae/README.md)
 
 ---
