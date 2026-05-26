@@ -15,5 +15,6 @@
 1. [Strings](./strings.md)
 1. [Structures](./structures.md)
 1. [File I/O](./file_io.md)
+1. [Dynamic Memory Allocation](./dynamic_memory_allocation.md)
 
 ---
