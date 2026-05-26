@@ -13,5 +13,6 @@
 1. [Pointers](./pointers.md)
 1. [Arrays](./arrays.md)
 1. [Strings](./strings.md)
+1. [Structures](./structures.md)
 
 ---

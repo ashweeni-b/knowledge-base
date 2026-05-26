@@ -98,9 +98,9 @@ C provides a set of standard library function for string manipulation - `<string
     - Returns negative value if the first string's mismatching character's ASCII value is less than the second string's corresponding mismatching character's ASCII value
     - Returns positive value otherwise
 
-```c
-strcmp("far", "joke");      // Negative value
-strcmp("joke", "far");      // Positive value
-```
+    ```c
+    strcmp("far", "joke");      // Negative value
+    strcmp("joke", "far");      // Positive value
+    ```
 
 ---
