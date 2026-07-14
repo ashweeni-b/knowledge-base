@@ -1,23 +1,17 @@
 ## The Knowledge Base
 
-### About Me
+Hi, I'm Ashweeni - a  Computer Engineering Graduate passionate about **_Software Development, Data Engineering, and continuous learning_**. <br />
 
-Hi, I'm Ashweeni - a final-year Computer Engineering student passionate about **_Software Development, Data Engineering, and continuous learning_**. <br />
-
-This website is my personal knowledge hub where I document everything I learn - from _Computer Science concepts and programming_ to _Mathematics and Sanskrit_. <br />
+This knowledge base is my personal practice hub where I document everything I learn - from _Computer Science concepts and programming_ to _Mathematics and Sanskrit_. <br />
 
 I believe in learning by building, so these notes are not just theory but a reflection of my practical understanding of conecpts. <br />
 
 My goal is to grow into a hands-on engineer by staying consistent, mastering fundamentals, and applying them to real-world solutions.
 
----
-
 ### Sections
 
 - 💻 [Computer Science](./cs-notes/README.md)
 - 📐 [Mathematics](./maths/README.md) 
-
----
 
 ### Purpose
 
