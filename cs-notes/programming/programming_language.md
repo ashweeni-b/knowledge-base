@@ -127,8 +127,8 @@ _abstrction - hiding complex realities of computers components behind software i
 
 ### Programming Paradigms
 
-- style or approach to programming
-- not a programming language but a tool for programming
+- Style or approach to programming
+- Not a programming language but a tool for programming
 
 #### Different Programming Paradigms
 
