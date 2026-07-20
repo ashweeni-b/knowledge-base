@@ -4,3 +4,4 @@
 1. [Programming Languages](./programming_language.md)
 1. [Language Processors](./language_processors.md)
 1. [Execution of Program](./execution_of_program.md)
+1. [Problem-Solving](./problem_solving.md)
