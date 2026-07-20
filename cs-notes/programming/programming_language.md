@@ -15,26 +15,26 @@ _abstrction - hiding complex realities of computers components behind software i
 - First generation language (1GL)
 - Consists of binary instructions (0s and 1s) that are directly understood and executed by the CPU
 
-    #### Characteristics
+#### Characteristics of Machine Language
 
-    - Written in binary
-    - Executed directly by the CPU
-    - No translator required
-    - Very fast execution
-    - Difficult for humans to read and write
-    - Hardware dependent
+- Written in binary
+- Executed directly by the CPU
+- No translator required
+- Very fast execution
+- Difficult for humans to read and write
+- Hardware dependent
 
-    #### Advantages
+#### Advantages of Machine Language
 
-    - Fastest execution
-    - No translation overhead
-    - Maximum hardware control
+- Fastest execution
+- No translation overhead
+- Maximum hardware control
 
-    #### Disadvantages
+#### Disadvantages of Machine Language
 
-    - Extremely difficult for humans to read and write
-    - Difficult to test, debug and maintain
-    - Not portable
+- Extremely difficult for humans to read and write
+- Difficult to test, debug and maintain
+- Not portable
 
 #### Assembly Language
 
@@ -43,26 +43,26 @@ _abstrction - hiding complex realities of computers components behind software i
 - Low-level programming language
 - Must be translated into machine language by using an assembler
 
-    #### Characteristics
+#### Characteristics of Assembly Language
 
-    - Uses mnemonic
-    - Easier than machine language
-    - Hardware dependent
-    - Requires an assembler
-    - Provides direct access to hardware
+- Uses mnemonic
+- Easier than machine language
+- Hardware dependent
+- Requires an assembler
+- Provides direct access to hardware
 
-    #### Advantages
+#### Advantages of Assembly Language
 
-    - Easier than binary
-    - Faster execution
-    - Efficient memory usage
-    - Useful for embedded systems and device drivers
+- Easier than binary
+- Faster execution
+- Efficient memory usage
+- Useful for embedded systems and device drivers
 
-    #### Disadvantages
+#### Disadvantages of Assembly Language
 
-    - Machine dependent
-    - Difficult for large software projects
-    - Less readable than high-level language
+- Machine dependent
+- Difficult for large software projects
+- Less readable than high-level language
 
 #### High-Level Language
 
@@ -71,26 +71,26 @@ _abstrction - hiding complex realities of computers components behind software i
 
     _abstracts away hardware details - hiding complex low-level physical workings of a computer from software developers_
 
-    #### Characteristics
+#### Characteristics of High-Level Language
 
-    - Human readable
-    - Portable
-    - Easier to debug and maintain
-    - Machine independent
-    - Requires language processors
+- Human readable
+- Portable
+- Easier to debug and maintain
+- Machine independent
+- Requires language processors
 
-    #### Advantages
+#### Advantages of High-Level Language
 
-    - Easy to learn
-    - Faster development
-    - Better readability
-    - Easier maintenance
-    - Large standard libraries
+- Easy to learn
+- Faster development
+- Better readability
+- Easier maintenance
+- Large standard libraries
 
-    #### Disadvantages
+#### Disadvantages of High-Level Language
 
-    - Slightly slower than low-level languages
-    - Less direct control over hardware
+- Slightly slower than low-level languages
+- Less direct control over hardware
 
 #### Types of High-Level Programming Languages
 
@@ -132,41 +132,43 @@ _abstrction - hiding complex realities of computers components behind software i
 
 #### Different Programming Paradigms
 
-1. Imperative Programming
+Imperative Programming and Declarative Programming are two different types or programming paradigms
+
+#### Imperative Programming
 
     - Focuses on how a task should be performed by giving instructions to the computers
     - C, C++, Java
 
-    #### Types
+#### Types of Imperative Programming
 
-    1. Procedural Programming
+1. Procedural Programming
 
-        - Program divided into procedures or functions
-        - Program &rarr; Functions &rarr; Data
-        - C, Pascal
+    - Program divided into procedures or functions
+    - Program &rarr; Functions &rarr; Data
+    - C, Pascal
 
-    1. Object-Oriented Programming
+1. Object-Oriented Programming
 
-        - Program organized around objects and classes
-        - Program &rarr; Objects &rarr; Data + Methods
-        - C++, Java, Python
+    - Program organized around objects and classes
+    - Program &rarr; Objects &rarr; Data + Methods
+    - C++, Java, Python
 
-1. Declarative Programming
+#### Declarative Programming
 
-    - Focuses and what results to be produced instead of describing every execution step
+Focuses and what results to be produced instead of describing every execution step
 
-    #### Types
+#### Types
 
-    1. Functional Programming
-        - Uses function to build programs
-        - Input &rarr; Functions &rarr; Output
-    
-    1. Logic Programming
+1. Functional Programming
+    - Uses function to build programs
+    - Input &rarr; Functions &rarr; Output
 
-        - Uses facts and rules for writing a program
-        - Facts / Rules &rarr; Inference Engine &rarr; Answers
+1. Logic Programming
 
-#### Examples
+    - Uses facts and rules for writing a program
+    - Facts / Rules &rarr; Inference Engine &rarr; Answers
+
+#### Examples of Languages
 
 | Language | Programming Paradigm |
 | ----- | ----- | 
