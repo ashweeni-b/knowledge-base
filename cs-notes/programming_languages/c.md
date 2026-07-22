@@ -51,10 +51,12 @@ Assembly Language <br />
 1. Procedural programming language
 1. Compiled language
 1. Strucutred programming language
-1. Middle-level language (supports both high-level and low-level programming)
+1. Middle-level language
 1. Portable across different systems
 1. Fast execution
 1. Efficient memory management using pointers
+
+_middle level language - supports high-level programming features such as functions, control structures, portability with low-level capabilities such as pointers, bitwise operations, manual memory management, and efficient hardware interaction_
 
 #### Features
 
