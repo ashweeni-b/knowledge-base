@@ -9,4 +9,6 @@
 1. [Tokens](./tokens.md)
 1. [Data Types](./data_types.md)
 1. [Input Output and Comments](./input_output_comments.md)
+1. [Instructions](./instructions.md)
+
 ---
