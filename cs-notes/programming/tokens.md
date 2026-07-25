@@ -66,7 +66,7 @@ Reserved words with predefined meanings
         <td> if </td>
         <td> while </td>
     </tr>
-<table>
+</table>
 
 ##### Keywords in C++
 
@@ -137,7 +137,7 @@ C++ introduced many new keywords because it supports OOP and Generic Programming
         <td>  </td>
         <td>  </td>
     </tr>
-<table>
+</table>
 
 #### Identifiers
 

@@ -7,11 +7,11 @@
 | ++ | Increment | Increments the current value |
 | ++a | Pre-increment | Increments and then uses the value |
 | a++ | Post-increment | Uses and then increments the value |
-| -- | Decrement | Decrements the current value |
-| --a | Pre-decrement | Decrements and then uses the value |
-| a-- | Post-decrement | Uses and then decrements the value |
+| \-\- | Decrement | Decrements the current value |
+| \-\-a | Pre-decrement | Decrements and then uses the value |
+| a\-\- | Post-decrement | Uses and then decrements the value |
 
-Here a is the operand and ++ or -- is the unary operator
+Here a is the operand and ++ or \-\- is the unary operator
 
 ```cpp
 int a = 4;
