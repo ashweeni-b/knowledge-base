@@ -11,5 +11,6 @@
 1. [Input Output and Comments](./input_output_comments.md)
 1. [Instructions](./instructions.md)
 1. [Operators](./operators.md)
+1. [Type Casting](./type_casting.md)
 
 ---
