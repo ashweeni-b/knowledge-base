@@ -7,5 +7,6 @@
 1. [Problem-Solving](./problem_solving.md)
 1. [Strucutre of Program](./structure_of_program.md)
 1. [Tokens](./tokens.md)
+1. [Data Types](./data_types.md)
 
 ---
