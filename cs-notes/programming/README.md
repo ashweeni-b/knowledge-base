@@ -8,5 +8,5 @@
 1. [Strucutre of Program](./structure_of_program.md)
 1. [Tokens](./tokens.md)
 1. [Data Types](./data_types.md)
-
+1. [Input Output and Comments](./input_output_comments.md)
 ---
