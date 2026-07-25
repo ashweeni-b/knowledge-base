@@ -12,5 +12,6 @@
 1. [Instructions](./instructions.md)
 1. [Operators](./operators.md)
 1. [Type Casting](./type_casting.md)
+1. [Conditional Instructions](./conditional_instructions.md)
 
 ---
