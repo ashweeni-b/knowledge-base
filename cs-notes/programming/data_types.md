@@ -117,6 +117,7 @@ Created by the programmer
     typedef unsigned int uint;  // In C
     
     using uint = unsigned int;  // In C++
+    ```
 
 #### How data types stores data in memory using variables
 

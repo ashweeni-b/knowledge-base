@@ -129,7 +129,7 @@ C++ introduced many new keywords because it supports OOP and Generic Programming
         <td> const </td>
         <td> sizeof </td>
     </tr>
-    <>
+    <tr>
         <td> typedef </td>
         <td> template </td>
         <td> enum </td>
