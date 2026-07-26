@@ -13,5 +13,6 @@
 1. [Operators](./operators.md)
 1. [Type Casting](./type_casting.md)
 1. [Conditional Instructions](./conditional_instructions.md)
+1. [Loop Control Instructions](./loop_control_instructions.md)
 
 ---
