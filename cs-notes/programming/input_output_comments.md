@@ -84,57 +84,57 @@
     - `cerr` - Prints the error message
     - `clog` - Prints logging and debug messages
 
-```cpp
-#include <iostream>
+    ```cpp
+    #include <iostream>
 
-int main() {
-    // Input integer
-    int a;
-    std::cin >> a;
+    int main() {
+        // Input integer
+        int a;
+        std::cin >> a;
 
-    // Output integer
-    std::cout << a;
-    
-    // Ignore input buffer
-    int b;
-    std::cin.ignore();   // Removes 1 character
-    std::cin >> b;
+        // Output integer
+        std::cout << a;
+        
+        // Ignore input buffer
+        int b;
+        std::cin.ignore();   // Removes 1 character
+        std::cin >> b;
 
-    // Checks failure of input
-    int c;
-    std::cin >> c;
-    // If entered value is character
-    if(std::cin.fail()) {
-        std::cout << "Invalid input";
+        // Checks failure of input
+        int c;
+        std::cin >> c;
+        // If entered value is character
+        if(std::cin.fail()) {
+            std::cout << "Invalid input";
+        }
+
+        // Input full line
+        string name;
+        getline(std::cin, name);
+
+        // Print error and log messages
+        float x;
+        std::cin >> x;
+        std::clog << "Program started";
+        // If entered value is character
+        if(std::cin.fail()) {
+            std::err << "Error";
+        }
+
+        return 0;
     }
-
-    // Input full line
-    string name;
-    getline(std::cin, name);
-
-    // Print error and log messages
-    float x;
-    std::cin >> x;
-    std::clog << "Program started";
-    // If entered value is character
-    if(std::cin.fail()) {
-        std::err << "Error";
-    }
-
-    return 0;
-}
-```
+    ```
 
 #### Escape Sequences
 
 - Special sequence of characters used in strings to represent characters that are difficult to enter directly
 - Common escape sequences characters are:
 
-1. Newline - \n
-1. Tab - \t
-1. Backslash - \\\\
-1. Single quote - \\'
-1. Dobule quote - \\"
-1. Question mark - \\?
+    1. Newline - \n
+    1. Tab - \t
+    1. Backslash - \\\\
+    1. Single quote - \\'
+    1. Dobule quote - \\"
+    1. Question mark - \\?
 
 ---
