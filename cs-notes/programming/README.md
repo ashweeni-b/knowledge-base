@@ -18,5 +18,6 @@
 1. [Functions](./functions.md)
 1. [Recursion](./recursion.md)
 1. [Pointers](./pointers.md)
+1. [Pointers and Functions](./pointers_and_functions.md)
 
 ---
